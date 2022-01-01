@@ -1,1 +1,2 @@
 echo hello network
+echo OK!
