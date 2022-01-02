@@ -1,2 +1,3 @@
 echo hello network
 echo OK!
+echo +Windows version
