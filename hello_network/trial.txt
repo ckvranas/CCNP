@@ -1,4 +1,5 @@
 echo hello network
 echo OK!
 echo +Windows version
-echo change!
+echo chang
+echo YES!
