@@ -3,3 +3,4 @@ echo OK!
 echo +Windows version
 echo chang
 echo YES!
+echo No!
